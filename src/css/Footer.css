@@ -1,0 +1,11 @@
+.footerFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 50px;
+}
+
+.footerFlex div {
+    width: 22%;
+    margin: 20px;
+}
